@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Buildozer / Kivy Android
+.buildozer/
+bin/
+*.apk
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
